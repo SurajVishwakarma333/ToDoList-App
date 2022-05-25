@@ -22,9 +22,12 @@ This is my database where my tasks stored
 
 ![1](https://user-images.githubusercontent.com/101108540/170192594-450dbd05-9bc1-430d-85c4-1f0cea9c6dcd.jpg)
 
-i downloaded this android studio database and open it in SQLite
+i downloaded this android studio database and opened in SQLite u can see my all task in db.
 
 
 ![5](https://user-images.githubusercontent.com/101108540/170192613-fad02bd8-42af-44ab-8c65-0082cd1eedf1.jpg)
+
+here i completed my last task i.e jogging
+
 ![6](https://user-images.githubusercontent.com/101108540/170192649-80ccdade-a3e1-4beb-99fa-3b299ac625d1.jpg)
 ![7](https://user-images.githubusercontent.com/101108540/170192658-0f99325d-f016-4a59-b80a-bb30a7ea929d.jpg)
