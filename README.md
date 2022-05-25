@@ -22,7 +22,7 @@ This is my database where my tasks stored
 
 ![1](https://user-images.githubusercontent.com/101108540/170192594-450dbd05-9bc1-430d-85c4-1f0cea9c6dcd.jpg)
 
-i downloaded this android studio database and opened in SQLite u can see my all task in db.
+i downloaded this database(android studio) and opened in SQLite u can see my all task in db.
 
 
 ![5](https://user-images.githubusercontent.com/101108540/170192613-fad02bd8-42af-44ab-8c65-0082cd1eedf1.jpg)
