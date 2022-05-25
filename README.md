@@ -1,6 +1,12 @@
 # ToDoList-App
 
+
+
 Adding tasks
+
+
+
+
 ![2](https://user-images.githubusercontent.com/101108540/170192469-23d26f97-8f9c-4485-8ffb-a100694bf7d9.jpg)
 ![4](https://user-images.githubusercontent.com/101108540/170192561-7e3837fb-0789-495e-879a-df16b65790b6.jpg)
 ![1](https://user-images.githubusercontent.com/101108540/170192594-450dbd05-9bc1-430d-85c4-1f0cea9c6dcd.jpg)
